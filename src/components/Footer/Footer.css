@@ -1,0 +1,128 @@
+.footer-left {
+  position: absolute;
+  left: 6.25%;
+  right: 79.17%;
+  top: 36.11%;
+  bottom: 33.89%;
+  background: #E61E3D;
+  box-shadow: -5px -5px 10px rgba(224, 68, 68, 0.5), 5px 5px 10px #951D30, 10px 10px 20px #951D30, -10px -10px 20px rgba(224, 68, 68, 0.5);
+  border-radius: 100px;
+  justify-content: center;
+}
+
+.footer-left-inner {
+  position: absolute;
+  height: 40px;
+  left: 35px;
+  right: 17px;
+  top: calc(50% - 40px/2);
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 21px;
+  line-height: 40px;
+  display: flex;
+  align-items: center;
+  color: #FFFFFF;
+}
+
+.footer-center {
+  position: absolute;
+  left: 26.39%;
+  right: 25.14%;
+  top: 40%;
+  bottom: 37.78%;
+}
+
+.footer-center .footer-center-about-us {
+  position: absolute;
+  left: 5.39%;
+  right: 61.39%;
+  top: 40%;
+  bottom: 37.78%;
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 21px;
+  line-height: 40px;
+  display: flex;
+  align-items: center;
+  text-align: center;
+  color: #FFFFFF;
+}
+
+.footer-center .footer-center-services {
+  position: absolute;
+  left: 32.19%;
+  right: 49.58%;
+  top: 40%;
+  bottom: 37.78%;
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 21px;
+  line-height: 40px;
+  display: flex;
+  align-items: center;
+  text-align: center;
+  color: #FFFFFF;
+}
+
+.footer-center .footer-center-careers {
+  position: absolute;
+  left: 58.42%;
+  right: 37.36%;
+  top: 40%;
+  bottom: 37.78%;
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 21px;
+  line-height: 40px;
+  display: flex;
+  align-items: center;
+  text-align: center;
+  color: #FFFFFF;
+}
+
+.footer-center .footer-center-contract {
+  position: absolute;
+  left: 83.64%;
+  right: 25.14%;
+  top: 40%;
+  bottom: 37.78%;
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 21px;
+  line-height: 40px;
+  display: flex;
+  align-items: center;
+  text-align: center;
+  color: #FFFFFF;
+}
+
+.footer-right, footer-right.inner {
+  position: absolute;
+  left: 79.31%;
+  right: 6.25%;
+  top: 30.22%;
+  bottom: 38.33%;
+  align-items: center;
+  text-align: center;
+  color: #FFFFFF;
+  font-family: Poppins;
+  font-style: italic;
+  font-size: 50px;
+  font-weight: bold;
+}
+
+.footer-right .footer-right-dot {
+  left: 105.05%;
+  right: 6.25%;
+  top: 56.63%;
+  bottom: 38.33%;
+  color: #231F1F;
+  font-size: 50px;
+  padding-left: 3px;
+}

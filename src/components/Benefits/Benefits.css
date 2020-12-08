@@ -1,0 +1,206 @@
+.h1-benefits {
+    position: absolute;
+    width: 1190px;
+    height: 422px;
+    left: 88px;
+    top: 2544px;
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 96px;
+    line-height: 105px;
+    /* or 109% */
+    display: block;
+    align-items: center;
+    color: #231F1F;
+}
+
+.h1-benefits .span-benefits {
+    color: #231F1F;
+    ;
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 300;
+}
+
+.b-paragraph {
+    position: absolute;
+    width: 617px;
+    height: 153px;
+    left: 90px;
+    top: 3006px;
+    font-family: Poppins;
+    font-style: normal;
+    font-size: 28px;
+    line-height: 45px;
+    /* or 161% */
+    color: #231F1F;
+}
+
+.flexible-contracts {
+    position: absolute;
+    width: 517px;
+    height: 317px;
+    left: 6.39%;
+    top: 3360px;
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 96px;
+    line-height: 105px;
+    /* or 109% */
+    display: flex;
+    align-items: center;
+    color: #231F1F;
+}
+
+.account-manager {
+    position: absolute;
+    width: 546px;
+    height: 317px;
+    left: 6.39%;
+    top: 3722px;
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 96px;
+    line-height: 105px;
+    /* or 109% */
+    display: flex;
+    align-items: center;
+    color: #231F1F;
+}
+
+.monthly-billing {
+    position: absolute;
+    width: 517px;
+    height: 317px;
+    left: 6.39%;
+    top: 4097px;
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 96px;
+    line-height: 105px;
+    /* or 109% */
+    display: flex;
+    align-items: center;
+    color: #231F1F;
+}
+
+.build-up-teams {
+    position: absolute;
+    width: 469px;
+    height: 211px;
+    left: 6.39%;
+    top: 4472px;
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 96px;
+    line-height: 105px;
+    /* or 109% */
+    display: flex;
+    align-items: center;
+    color: #231F1F;
+}
+
+.flexible-contracts-figure {
+    position: absolute;
+    width: 218px;
+    height: 185px;
+    left: 646px;
+    top: 3383px;
+    background: url('../../assets/item1.png');
+    background-repeat: no-repeat;
+}
+
+.flexible-contracts-paragraph {
+    position: absolute;
+    width: 440px;
+    height: 153px;
+    left: 64%;
+    top: 3399px;
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 28px;
+    line-height: 45px;
+    /* or 161% */
+    color: #231F1F;
+}
+
+.account-manager-figure {
+    position: absolute;
+    width: 214.89px;
+    height: 182.36px;
+    left: 651px;
+    top: 3752.32px;
+    background: url('../../assets/item2.png');
+    background-repeat: no-repeat;
+}
+
+.account-manager-paragraph {
+    position: absolute;
+    width: 440px;
+    height: 153px;
+    left: 64%;
+    top: 3782px;
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 28px;
+    line-height: 45px;
+    /* or 161% */
+    color: #231F1F;
+}
+
+.monthly-billing-figure {
+    position: absolute;
+    width: 218px;
+    height: 185px;
+    left: 644px;
+    top: 4127px;
+    background: url('../../assets/item3.png');
+    background-repeat: no-repeat;
+}
+
+.monthly-billing-paragraph {
+    position: absolute;
+    width: 440px;
+    height: 153px;
+    left: 64%;
+    top: 4136px;
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 28px;
+    line-height: 45px;
+    /* or 161% */
+    color: #231F1F;
+}
+
+.build-up-teams-figure {
+    position: absolute;
+    width: 218px;
+    height: 185px;
+    left: 646px;
+    top: 4483px;
+    background: url('../../assets/item4.png');
+    background-repeat: no-repeat;
+}
+
+.build-up-teams-paragraph {
+    position: absolute;
+    width: 380px;
+    height: 153px;
+    left: 64%;
+    top: 4498px;
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 28px;
+    line-height: 45px;
+    /* or 161% */
+    color: #000000;
+}

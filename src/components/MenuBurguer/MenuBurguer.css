@@ -1,0 +1,12 @@
+.menu-burguer-figure {
+    position: absolute;
+    width: 198.06px;
+    height: 158.27px;
+    right: 6.25%;
+    top: 66.71px;
+    bottom: 98%;
+    Left: 95%;
+    right: 90px;
+    background: url('../../assets/menu-burger.png');
+    background-repeat: no-repeat;
+}

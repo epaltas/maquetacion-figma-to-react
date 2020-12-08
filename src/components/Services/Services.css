@@ -1,0 +1,244 @@
+.services-distribuited {
+  position: absolute;
+  width: 205px;
+  height: 100%;
+  left: 97px;
+  top: 1659px;
+  background-color: indianred;
+}
+
+.delivery-team-figure {
+  position: absolute;
+  width: 205px;
+  height: 287px;
+  left: 97px;
+  top: 997px;
+  background: url('../../assets/icon1.png');
+  background-repeat: no-repeat;
+}
+
+.staff-augmentation-figure {
+  position: absolute;
+  width: 210px;
+  height: 206px;
+  left: 580px;
+  top: 1041px;
+  background: url('../../assets/icon2.png');
+}
+
+.project-strategy-figure {
+  position: absolute;
+  width: 191px;
+  height: 202px;
+  left: 1038px;
+  top: 1045px;
+  background: url('../../assets/item1.png');
+  background-repeat: no-repeat;
+}
+
+.mpv-development-figure {
+  position: absolute;
+  width: 236px;
+  height: 263px;
+  left: 92px;
+  top: 1659px;
+  background: url('../../assets/item2.png');
+  background-repeat: no-repeat;
+}
+
+.software-soutsourcing-figure {
+  position: absolute;
+  width: 236px;
+  height: 263px;
+  left: 586px;
+  top: 1672px;
+  background: url('../../assets/icon3.png');
+  background-repeat: no-repeat;
+}
+
+.launch-keep-growing-figure {
+  position: absolute;
+  width: 218px;
+  height: 185px;
+  left: 1022px;
+  top: 1698px;
+  background: url('../../assets/item4.png');
+  background-repeat: no-repeat;
+}
+
+.delivery-paragraph {
+  position: absolute;
+  width: 268px;
+  height: 223px;
+  left: 6.39%;
+  top: 1258px;
+  font-family: Poppins;
+  font-style: normal;
+  font-size: 18px;
+  line-height: 141.5%;
+  /* or 34px */
+  font-feature-settings: 'liga' off;
+  /* Gray 1 */
+  color: #231F1F;
+}
+
+.staff-paragraph {
+  position: absolute;
+  width: 283px;
+  height: 257px;
+  left: 40%;
+  top: 1259px;
+  font-family: Poppins;
+  font-style: normal;
+  font-size: 18px;
+  line-height: 141.5%;
+  /* or 34px */
+  font-feature-settings: 'liga' off;
+  /* Gray 1 */
+  color: #231F1F;
+}
+
+.project-paragraph {
+  position: absolute;
+  width: 298px;
+  height: 258px;
+  left: 74%;
+  top: 1259px;
+  font-family: Poppins;
+  font-style: normal;
+  font-size: 18px;
+  line-height: 141.5%;
+  /* or 34px */
+  font-feature-settings: 'liga' off;
+  /* Gray 1 */
+  color: #231F1F;
+}
+
+.mpv-development-paragraph {
+  position: absolute;
+  width: 302px;
+  height: 224px;
+  left: 6.39%;
+  top: 1909px;
+  font-family: Poppins;
+  font-style: normal;
+  font-size: 18px;
+  line-height: 141.5%;
+  /* or 34px */
+  font-feature-settings: 'liga' off;
+  /* Gray 1 */
+  color: #231F1F;
+}
+
+.software-soutsourcing-paragraph {
+  position: absolute;
+  width: 268px;
+  height: 171px;
+  left: 40%;
+  top: 1922px;
+  font-family: Poppins;
+  font-style: normal;
+  font-size: 18px;
+  line-height: 141.5%;
+  /* or 34px */
+  font-feature-settings: 'liga' off;
+  /* Gray 1 */
+  color: #231F1F;
+}
+
+.launch-keep-growing-paragraph {
+  position: absolute;
+  width: 294px;
+  height: 189px;
+  left: 74%;
+  top: 1909px;
+  font-family: Poppins;
+  font-style: normal;
+  font-size: 18px;
+  line-height: 141.5%;
+  /* or 34px */
+  font-feature-settings: 'liga' off;
+  /* Gray 1 */
+  color: #231F1F;
+}
+
+label {
+  font-size: 24px;
+  font-weight: bold;
+}
+
+.team-button {
+  position: absolute;
+  width: 202px;
+  height: 70px;
+  left: 92px;
+  top: 1504px;
+  filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+  background: #FFFFFF;
+  box-shadow: -5px -5px 10px rgba(255, 255, 255, 0.5), 5px 5px 10px rgba(224, 224, 224, 0.5), 10px 10px 20px rgba(224, 224, 224, 0.5), -10px -10px 20px #FFFFFF;
+  border-radius: 100px;
+}
+
+.staff-button {
+  position: absolute;
+  width: 202px;
+  height: 70px;
+  left: 548px;
+  top: 1496px;
+  filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+  background: #FFFFFF;
+  box-shadow: -5px -5px 10px rgba(255, 255, 255, 0.5), 5px 5px 10px rgba(224, 224, 224, 0.5), 10px 10px 20px rgba(224, 224, 224, 0.5), -10px -10px 20px #FFFFFF;
+  border-radius: 100px;
+}
+
+.project-button {
+  position: absolute;
+  width: 261px;
+  height: 70px;
+  left: 1015px;
+  top: 1496px;
+  filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+  background: #FFFFFF;
+  box-shadow: -5px -5px 10px rgba(255, 255, 255, 0.5), 5px 5px 10px rgba(224, 224, 224, 0.5), 10px 10px 20px rgba(224, 224, 224, 0.5), -10px -10px 20px #FFFFFF;
+  border-radius: 100px;
+}
+
+.mvp-button {
+  position: absolute;
+  width: 202px;
+  height: 70px;
+  left: 92px;
+  top: 2164px;
+  filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+  background: #FFFFFF;
+  box-shadow: -5px -5px 10px rgba(255, 255, 255, 0.5), 5px 5px 10px rgba(224, 224, 224, 0.5), 10px 10px 20px rgba(224, 224, 224, 0.5), -10px -10px 20px #FFFFFF;
+  border-radius: 100px;
+}
+
+.software-button {
+  position: absolute;
+  width: 202px;
+  height: 70px;
+  left: 586px;
+  top: 2164px;
+  filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+  background: #FFFFFF;
+  box-shadow: -5px -5px 10px rgba(255, 255, 255, 0.5), 5px 5px 10px rgba(224, 224, 224, 0.5), 10px 10px 20px rgba(224, 224, 224, 0.5), -10px -10px 20px #FFFFFF;
+  border-radius: 100px;
+}
+
+.launch-button {
+  position: absolute;
+  width: 202px;
+  height: 70px;
+  left: 1019px;
+  top: 2164px;
+  filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+  background: #FFFFFF;
+  box-shadow: -5px -5px 10px rgba(255, 255, 255, 0.5), 5px 5px 10px rgba(224, 224, 224, 0.5), 10px 10px 20px rgba(224, 224, 224, 0.5), -10px -10px 20px #FFFFFF;
+  border-radius: 100px;
+}
+
+.h1-title {
+  font-size: 24px;
+}

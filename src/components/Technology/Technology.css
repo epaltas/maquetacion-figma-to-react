@@ -1,0 +1,28 @@
+.technology1-figure {
+    position: absolute;
+    width: 361px;
+    height: 94px;
+    left: 6.39%;
+    top: 2334px;
+    background: url('../../assets/technologies-1.png');
+    mix-blend-mode: normal;
+}
+
+.technology2-figure {
+    position: absolute;
+    width: 363px;
+    height: 93px;
+    left: 37.7%;
+    top: 2335px;
+    background: url('../../assets/technologies-2.png');
+    mix-blend-mode: normal;
+}
+
+.technology3-figure {
+    position: absolute;
+    width: 361px;
+    height: 94px;
+    left: 69%;
+    top: 2337px;
+    background: url('../../assets/technologies-3.png')
+}
